@@ -1,2 +1,5 @@
 #include <iostream>
-int main(){return 0;}
+using namesapce std;
+int main(){
+	return 0;
+}
